@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjectGalaxyPicturePixelConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectGalaxyPicturePixelConverter_jar</output-path>
+    <root id="archive" name="ProjectGalaxyPicturePixelConverter.jar">
+      <element id="module-output" name="ProjectGalaxyPicturePixelConverter" />
+    </root>
+  </artifact>
+</component>
