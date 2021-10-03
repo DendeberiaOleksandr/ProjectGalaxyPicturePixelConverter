@@ -1,2 +1,2 @@
 # ProjectGalaxyPicturePixelConverter
-The project is the close api for Project Galaxy online game. It converts images into RGB colorspace with limited shades that you can use in the game. Application has functions as converting, scrolling, cutting the transformed picture into frames, showing the color of the chosen pixel.
+The project is the GUI helper(utility) for online game. In that game player can draw using limit collection of colors. This utility helps convert photo to image with game colors.
